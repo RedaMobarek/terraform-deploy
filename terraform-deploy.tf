@@ -1,10 +1,10 @@
-# Configure Azure provider in SANDBOX subscription
+
 
 provider azurerm {
-    subscription_id     = "be811814-6f67-4dc5-88c0-52158ef178aa"
-    client_id           = "4b04e559-24fb-4dd0-a68b-8df038ffcd39"
-    client_secret       = "5lBK+CS2Yyws1ugLxBE/PlQc/xNe2f0LWxjq8bO6b6Y="
-    tenant_id           = "bddddbb1-db54-40d5-b230-0609bcef2068"
+    subscription_id     = 
+    client_id           = 
+    client_secret       = 
+    tenant_id           = 
 }
 
 data "azurerm_resource_group" "customimage" {
